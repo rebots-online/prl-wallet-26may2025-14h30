@@ -1,0 +1,6 @@
+{
+  "name": "Pearl Wallet",
+  "description": "Obsidian Iridescence minimalist cryptocurrency wallet for the Pearl ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
